@@ -5,6 +5,8 @@ I'm a Colombian 🇨🇴 born Civil Engineer who decided to move to the US 🇺�
 
 Since graduating from Fullstack, I've been focusing in Front-End technologies such as React and Next, and have taken courses in Typescript and Test-Driven Development using React Testing Library
 
+Currently working on [SET!}(https://carlosdahmen.github.io/setGame), a front-end implementation of the card game Set!
+
 ### Here are some deployed projects I've developed:
 
 - [Namegame](https://CarlosDahmen.github.io):
